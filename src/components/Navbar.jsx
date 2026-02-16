@@ -8,10 +8,10 @@ const Navbar = () => {
 
 // In the navigation array, add:
 const navigation = [
-  { name: 'Home', href: '/' },
-  { name: 'Explore', href: '/explore' },
-  { name: 'BMI Calculator', href: '/bmi' },
-  { name: 'About', href: '/about' },
+  { name: 'Home', href: '/Suggest-Medicine' },
+  { name: 'Explore', href: '/Suggest-Medicine/explore' },
+  { name: 'BMI Calculator', href: '/Suggest-Medicine/bmi' },
+  { name: 'About', href: '/Suggest-Medicine/about' },
 ];
 
   return (
@@ -19,7 +19,7 @@ const navigation = [
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
-            <Link to="/" className="flex items-center space-x-2">
+            <Link to="/Suggest-Medicine" className="flex items-center space-x-2">
               <Pill className="h-8 w-8 text-blue-500" />
 
               <span className="text-xl font-bold text-white">MediSuggest</span>

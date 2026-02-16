@@ -40,7 +40,7 @@ const Footer = () => {
     {
       title: 'Company',
       links: [
-        { name: 'About us', href: '#about' },
+        { name: 'About us', href: '/Suggest-Medicine/about' },
         { name: 'Contact', href: '#contact' },
         { name: 'Careers', href: '#careers' },
         { name: 'Blog', href: '#blog' },
@@ -77,7 +77,7 @@ const Footer = () => {
             <div className="space-y-2">
               <div className="flex items-center space-x-2 text-zinc-400 text-sm">
                 <Mail className="h-4 w-4" />
-                <span>contact@medisuggest.com</span>
+                <span>rakesh.coding.007@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2 text-zinc-400 text-sm">
                 <MapPin className="h-4 w-4" />

@@ -15,10 +15,10 @@ function App() {
         <Navbar />
         <main className="flex-grow">
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/explore" element={<Explore />} />
-            <Route path="/bmi" element={<BMI />} />
-            <Route path="/about" element={<About />} />
+            <Route path="/Suggest-Medicine" element={<Home />} />
+            <Route path="/Suggest-Medicine/explore" element={<Explore />} />
+            <Route path="/Suggest-Medicine/bmi" element={<BMI />} />
+            <Route path="/Suggest-Medicine/about" element={<About />} />
           </Routes>
         </main>
         <Footer />
