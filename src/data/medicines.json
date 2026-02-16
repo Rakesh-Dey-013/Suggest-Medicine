@@ -1,0 +1,544 @@
+{
+  "problems": [
+    {
+      "problem": "Headache",
+      "medicines": [
+        "Paracetamol",
+        "Ibuprofen",
+        "Aspirin",
+        "Naproxen",
+        "Sumatriptan"
+      ]
+    },
+    {
+      "problem": "Migraine",
+      "medicines": [
+        "Sumatriptan",
+        "Rizatriptan",
+        "Propranolol",
+        "Topiramate",
+        "Naproxen"
+      ]
+    },
+    {
+      "problem": "Fever",
+      "medicines": [
+        "Paracetamol",
+        "Acetaminophen",
+        "Ibuprofen",
+        "Aspirin",
+        "Naproxen"
+      ]
+    },
+    {
+      "problem": "Cold and Cough",
+      "medicines": [
+        "Cetirizine",
+        "Dextromethorphan",
+        "Ambroxol",
+        "Guaifenesin",
+        "Phenylephrine",
+        "Chlorpheniramine"
+      ]
+    },
+    {
+      "problem": "Allergy",
+      "medicines": [
+        "Loratadine",
+        "Cetirizine",
+        "Fexofenadine",
+        "Diphenhydramine",
+        "Levocetirizine"
+      ]
+    },
+    {
+      "problem": "Acidity",
+      "medicines": [
+        "Omeprazole",
+        "Pantoprazole",
+        "Ranitidine",
+        "Esomeprazole",
+        "Antacids"
+      ]
+    },
+    {
+      "problem": "Heartburn",
+      "medicines": [
+        "Omeprazole",
+        "Pantoprazole",
+        "Ranitidine",
+        "Famotidine",
+        "Antacids"
+      ]
+    },
+    {
+      "problem": "Muscle Pain",
+      "medicines": [
+        "Ibuprofen",
+        "Diclofenac",
+        "Naproxen",
+        "Acetaminophen",
+        "Cyclobenzaprine"
+      ]
+    },
+    {
+      "problem": "Joint Pain",
+      "medicines": [
+        "Ibuprofen",
+        "Naproxen",
+        "Diclofenac",
+        "Celecoxib",
+        "Glucosamine"
+      ]
+    },
+    {
+      "problem": "Back Pain",
+      "medicines": [
+        "Ibuprofen",
+        "Naproxen",
+        "Diclofenac",
+        "Acetaminophen",
+        "Cyclobenzaprine"
+      ]
+    },
+    {
+      "problem": "Nausea",
+      "medicines": [
+        "Domperidone",
+        "Ondansetron",
+        "Metoclopramide",
+        "Dimenhydrinate",
+        "Meclizine"
+      ]
+    },
+    {
+      "problem": "Vomiting",
+      "medicines": [
+        "Ondansetron",
+        "Metoclopramide",
+        "Domperidone",
+        "Dimenhydrinate",
+        "Prochlorperazine"
+      ]
+    },
+    {
+      "problem": "Diarrhea",
+      "medicines": [
+        "Loperamide",
+        "Racecadotril",
+        "Probiotics",
+        "Bismuth Subsalicylate",
+        "Electrolyte Solutions"
+      ]
+    },
+    {
+      "problem": "Constipation",
+      "medicines": [
+        "Psyllium Husk",
+        "Docusate Sodium",
+        "Bisacodyl",
+        "Polyethylene Glycol",
+        "Lactulose"
+      ]
+    },
+    {
+      "problem": "Indigestion",
+      "medicines": [
+        "Antacids",
+        "Omeprazole",
+        "Pantoprazole",
+        "Simethicone",
+        "Domperidone"
+      ]
+    },
+    {
+      "problem": "Anxiety",
+      "medicines": [
+        "Alprazolam",
+        "Diazepam",
+        "Lorazepam",
+        "Buspirone",
+        "Propranolol"
+      ]
+    },
+    {
+      "problem": "Insomnia",
+      "medicines": [
+        "Zolpidem",
+        "Melatonin",
+        "Diazepam",
+        "Diphenhydramine",
+        "Doxepin"
+      ]
+    },
+    {
+      "problem": "High Blood Pressure",
+      "medicines": [
+        "Amlodipine",
+        "Lisinopril",
+        "Losartan",
+        "Metoprolol",
+        "Hydrochlorothiazide"
+      ]
+    },
+    {
+      "problem": "Diabetes",
+      "medicines": [
+        "Metformin",
+        "Glibenclamide",
+        "Insulin",
+        "Sitagliptin",
+        "Pioglitazone"
+      ]
+    },
+    {
+      "problem": "Asthma",
+      "medicines": [
+        "Salbutamol",
+        "Budesonide",
+        "Montelukast",
+        "Theophylline",
+        "Ipratropium"
+      ]
+    },
+    {
+      "problem": "Skin Allergy",
+      "medicines": [
+        "Cetirizine",
+        "Loratadine",
+        "Hydrocortisone Cream",
+        "Calamine Lotion",
+        "Fexofenadine"
+      ]
+    },
+    {
+      "problem": "Fungal Infection",
+      "medicines": [
+        "Clotrimazole",
+        "Miconazole",
+        "Terbinafine",
+        "Fluconazole",
+        "Ketoconazole"
+      ]
+    },
+    {
+      "problem": "Bacterial Infection",
+      "medicines": [
+        "Amoxicillin",
+        "Azithromycin",
+        "Ciprofloxacin",
+        "Doxycycline",
+        "Cephalexin"
+      ]
+    },
+    {
+      "problem": "Urinary Tract Infection",
+      "medicines": [
+        "Ciprofloxacin",
+        "Nitrofurantoin",
+        "Trimethoprim",
+        "Fosfomycin",
+        "Cephalexin"
+      ]
+    },
+    {
+      "problem": "Vitamin Deficiency",
+      "medicines": [
+        "Multivitamin",
+        "Vitamin D",
+        "Vitamin B Complex",
+        "Vitamin C",
+        "Iron Supplements"
+      ]
+    }
+  ],
+  "medicineDetails": [
+    {
+      "name": "Paracetamol",
+      "use": "Relieves pain and reduces fever",
+      "dose": "500mg every 4-6 hours (max 4g/day)",
+      "price": "₹10-₹30 per strip",
+      "timing": "After meals",
+      "sideEffects": [
+        "Nausea",
+        "Allergic reaction (rare)",
+        "Liver damage (in overdose)"
+      ],
+      "warnings": [
+        "Do not exceed recommended dose",
+        "Consult doctor if symptoms persist beyond 3 days",
+        "Avoid alcohol while taking this medication"
+      ]
+    },
+    {
+      "name": "Ibuprofen",
+      "use": "Reduces pain, inflammation, and fever",
+      "dose": "400mg every 6-8 hours (max 1200mg/day)",
+      "price": "₹20-₹50 per strip",
+      "timing": "After meals",
+      "sideEffects": [
+        "Stomach upset",
+        "Heartburn",
+        "Nausea",
+        "Dizziness",
+        "Increased blood pressure"
+      ],
+      "warnings": [
+        "Take with food to reduce stomach upset",
+        "Not recommended for people with stomach ulcers",
+        "Avoid prolonged use without medical supervision"
+      ]
+    },
+    {
+      "name": "Cetirizine",
+      "use": "Treats allergy symptoms like sneezing, itching, and runny nose",
+      "dose": "10mg once daily",
+      "price": "₹25-₹60 per strip",
+      "timing": "Can be taken with or without food",
+      "sideEffects": ["Drowsiness", "Dry mouth", "Headache", "Fatigue"],
+      "warnings": [
+        "May cause drowsiness, avoid driving",
+        "Consult doctor if symptoms persist",
+        "Not recommended for children under 2 years"
+      ]
+    },
+    {
+      "name": "Omeprazole",
+      "use": "Reduces stomach acid, treats heartburn and GERD",
+      "dose": "20mg once daily before meal",
+      "price": "₹40-₹100 per strip",
+      "timing": "Before breakfast",
+      "sideEffects": ["Headache", "Diarrhea", "Nausea", "Abdominal pain"],
+      "warnings": [
+        "Not for immediate relief of heartburn",
+        "Long-term use may affect nutrient absorption",
+        "Consult doctor before long-term use"
+      ]
+    },
+    {
+      "name": "Ambroxol",
+      "use": "Loosens phlegm and helps clear airways",
+      "dose": "30mg three times daily",
+      "price": "₹50-₹120 per strip",
+      "timing": "After meals",
+      "sideEffects": ["Nausea", "Vomiting", "Diarrhea", "Rash"],
+      "warnings": [
+        "Drink plenty of fluids while taking this medication",
+        "Not recommended for people with stomach ulcers"
+      ]
+    },
+    {
+      "name": "Sumatriptan",
+      "use": "Treats migraine headaches",
+      "dose": "50-100mg at onset of migraine, may repeat after 2 hours if needed (max 200mg/day)",
+      "price": "₹200-₹500 per strip",
+      "timing": "At the first sign of migraine",
+      "sideEffects": ["Chest tightness", "Dizziness", "Flushing", "Nausea"],
+      "warnings": [
+        "Not for preventive use",
+        "Do not take more than 2 doses in 24 hours",
+        "Not recommended for people with heart conditions"
+      ]
+    },
+    {
+      "name": "Loratadine",
+      "use": "Relieves allergy symptoms such as runny nose, sneezing, and itchy eyes",
+      "dose": "10mg once daily",
+      "price": "₹30-₹70 per strip",
+      "timing": "Can be taken with or without food",
+      "sideEffects": ["Headache", "Dry mouth", "Fatigue", "Nervousness"],
+      "warnings": [
+        "Less likely to cause drowsiness than other antihistamines",
+        "Consult doctor if symptoms persist"
+      ]
+    },
+    {
+      "name": "Diclofenac",
+      "use": "Reduces pain and inflammation in conditions like arthritis",
+      "dose": "50mg two to three times daily",
+      "price": "₹25-₹60 per strip",
+      "timing": "After meals",
+      "sideEffects": ["Stomach pain", "Heartburn", "Nausea", "Dizziness"],
+      "warnings": [
+        "Take with food to reduce stomach upset",
+        "Not recommended for people with kidney problems",
+        "Avoid prolonged use"
+      ]
+    },
+    {
+      "name": "Metformin",
+      "use": "Controls blood sugar levels in type 2 diabetes",
+      "dose": "500mg once or twice daily, as prescribed",
+      "price": "₹50-₹150 per strip",
+      "timing": "With meals",
+      "sideEffects": ["Nausea", "Diarrhea", "Stomach upset", "Metallic taste"],
+      "warnings": [
+        "Regular blood sugar monitoring required",
+        "Do not skip meals",
+        "Report any unusual muscle pain to doctor"
+      ]
+    },
+    {
+      "name": "Amoxicillin",
+      "use": "Treats bacterial infections such as pneumonia, bronchitis, and ear infections",
+      "dose": "250-500mg three times daily, as prescribed",
+      "price": "₹80-₹200 per strip",
+      "timing": "Can be taken with or without food",
+      "sideEffects": ["Nausea", "Diarrhea", "Vomiting", "Rash"],
+      "warnings": [
+        "Complete the full course even if you feel better",
+        "May reduce effectiveness of birth control pills",
+        "Inform doctor of any allergic reactions"
+      ]
+    },
+    {
+      "name": "Salbutamol",
+      "use": "Relieves asthma symptoms and bronchospasm",
+      "dose": "1-2 puffs every 4-6 hours as needed",
+      "price": "₹100-₹250 per inhaler",
+      "timing": "As needed for breathing difficulties",
+      "sideEffects": [
+        "Nervousness",
+        "Shakiness",
+        "Headache",
+        "Rapid heartbeat"
+      ],
+      "warnings": [
+        "Do not exceed recommended dose",
+        "Seek medical help if symptoms worsen",
+        "Rinse mouth after use to prevent thrush"
+      ]
+    },
+    {
+      "name": "Atorvastatin",
+      "use": "Lowers cholesterol and reduces risk of heart disease",
+      "dose": "10-80mg once daily, as prescribed",
+      "price": "₹100-₹300 per strip",
+      "timing": "At bedtime",
+      "sideEffects": ["Headache", "Muscle pain", "Nausea", "Constipation"],
+      "warnings": [
+        "Regular liver function tests recommended",
+        "Report any unexplained muscle pain to doctor",
+        "Avoid grapefruit while taking this medication"
+      ]
+    },
+    {
+      "name": "Sertraline",
+      "use": "Treats depression, anxiety disorders, and OCD",
+      "dose": "50-200mg once daily, as prescribed",
+      "price": "₹150-₹400 per strip",
+      "timing": "Morning or evening as directed",
+      "sideEffects": ["Nausea", "Insomnia", "Dry mouth", "Sexual dysfunction"],
+      "warnings": [
+        "Do not stop abruptly",
+        "May take 4-6 weeks to show full effect",
+        "Inform doctor of any worsening symptoms"
+      ]
+    },
+    {
+      "name": "Pantoprazole",
+      "use": "Reduces stomach acid production and treats GERD",
+      "dose": "40mg once daily before meal",
+      "price": "₹60-₹150 per strip",
+      "timing": "Before breakfast",
+      "sideEffects": ["Headache", "Diarrhea", "Nausea", "Abdominal pain"],
+      "warnings": [
+        "Not for immediate relief of heartburn",
+        "Long-term use may increase fracture risk",
+        "Take exactly as prescribed"
+      ]
+    },
+    {
+      "name": "Clotrimazole",
+      "use": "Treats fungal skin infections such as athlete's foot and ringworm",
+      "dose": "Apply thin layer to affected area 2-3 times daily",
+      "price": "₹40-₹100 per tube",
+      "timing": "As directed, after cleaning and drying the area",
+      "sideEffects": ["Skin irritation", "Burning", "Itching", "Redness"],
+      "warnings": [
+        "Continue treatment for 2 weeks after symptoms disappear",
+        "Do not use on broken skin",
+        "Avoid tight-fitting clothing"
+      ]
+    },
+    {
+      "name": "Diazepam",
+      "use": "Treats anxiety, muscle spasms, and seizures",
+      "dose": "2-10mg 2-4 times daily, as prescribed",
+      "price": "₹30-₹80 per strip",
+      "timing": "As directed by doctor",
+      "sideEffects": ["Drowsiness", "Dizziness", "Fatigue", "Muscle weakness"],
+      "warnings": [
+        "May be habit-forming",
+        "Do not stop abruptly",
+        "Avoid alcohol while taking this medication"
+      ]
+    },
+    {
+      "name": "Metoprolol",
+      "use": "Treats high blood pressure, angina, and heart rhythm disorders",
+      "dose": "25-100mg once or twice daily, as prescribed",
+      "price": "₹40-₹100 per strip",
+      "timing": "With or immediately after meals",
+      "sideEffects": [
+        "Tiredness",
+        "Dizziness",
+        "Slow heartbeat",
+        "Cold hands and feet"
+      ],
+      "warnings": [
+        "Do not stop abruptly",
+        "Monitor blood pressure regularly",
+        "Inform doctor if shortness of breath occurs"
+      ]
+    },
+    {
+      "name": "Levothyroxine",
+      "use": "Replaces thyroid hormone in hypothyroidism",
+      "dose": "25-200mcg once daily, as prescribed",
+      "price": "₹50-₹120 per strip",
+      "timing": "On empty stomach, 30-60 minutes before breakfast",
+      "sideEffects": [
+        "Headache",
+        "Nervousness",
+        "Irritability",
+        "Increased appetite"
+      ],
+      "warnings": [
+        "Take consistently at same time each day",
+        "Regular thyroid function tests needed",
+        "Wait at least 4 hours before taking calcium or iron supplements"
+      ]
+    },
+    {
+      "name": "Warfarin",
+      "use": "Prevents blood clots in conditions like atrial fibrillation",
+      "dose": "2-10mg once daily, as prescribed",
+      "price": "₹30-₹80 per strip",
+      "timing": "Same time each day",
+      "sideEffects": ["Bleeding", "Bruising easily", "Hair loss", "Rash"],
+      "warnings": [
+        "Regular blood tests (INR) required",
+        "Maintain consistent vitamin K intake",
+        "Carry identification stating you take this medication"
+      ]
+    },
+    {
+      "name": "Insulin Glargine",
+      "use": "Long-acting insulin for diabetes management",
+      "dose": "Individualized based on blood sugar levels",
+      "price": "₹300-₹800 per vial/pen",
+      "timing": "Once daily at the same time",
+      "sideEffects": [
+        "Low blood sugar",
+        "Weight gain",
+        "Injection site reactions"
+      ],
+      "warnings": [
+        "Rotate injection sites",
+        "Monitor blood sugar regularly",
+        "Always have a source of sugar available for hypoglycemia"
+      ]
+    }
+  ]
+}

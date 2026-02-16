@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+/* Base styles */
+body {
+  background-color: #18181b; /* zinc-900 */
+  color: #f4f4f5; /* zinc-100 */
+}
+
+/* Components */
+.btn-primary {
+  background-color: #27272a; /* zinc-800 */
+  color: #ffffff;
+  font-weight: 500;
+  padding: 0.5rem 1rem; /* py-2 px-4 */
+  border-radius: 0.5rem; /* rounded-lg */
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-duration: 200ms;
+}
+
+.btn-primary:hover {
+  background-color: #3f3f46; /* zinc-700 */
+}
+
+.btn-secondary {
+  background-color: #3f3f46; /* zinc-700 */
+  color: #ffffff;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-duration: 200ms;
+}
+
+.btn-secondary:hover {
+  background-color: #52525b; /* zinc-600 */
+}
+
+.card {
+  background-color: #27272a; /* zinc-800 */
+  border-radius: 0.75rem; /* rounded-xl */
+  padding: 1.5rem; /* p-6 */
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+              0 4px 6px -2px rgba(0, 0, 0, 0.05); /* shadow-lg */
+  border: 1px solid #3f3f46; /* border-zinc-700 */
+}
+
+.input-field {
+  background-color: #27272a; /* zinc-800 */
+  border: 1px solid #3f3f46; /* border-zinc-700 */
+  border-radius: 0.5rem; /* rounded-lg */
+  padding: 0.75rem 1rem; /* py-3 px-4 */
+  color: #ffffff;
+  /* placeholder-color: #71717a; zinc-500 (handled with ::placeholder) */
+}
+
+.input-field::placeholder {
+  color: #71717a; /* zinc-500 */
+}
+
+.input-field:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #3f3f46; /* ring-2 ring-zinc-600 */
+}
